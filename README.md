@@ -12,7 +12,7 @@ reactJS, bootstrap, hooks, and firebase.
 
 ## Live website
 
-<a href="https://dunkinclone.netlify.app/">c-store</a>
+<a href="https://dunkinclone.netlify.app/">Dunkin' clone</a>
 
 
 ## How I reached 99% performance on Desktop and 97% on Mobile
@@ -27,12 +27,17 @@ reactJS, bootstrap, hooks, and firebase.
 ## How it looks
 
 <h3 align='center'>Web perspective</h3>
+<div>
 <img src="https://i.ibb.co/dBLFWjf/menu-View-Web.png"  width="45%" alt="menu-View-Web" border="0"><img src="https://i.ibb.co/w4RQbJh/mobile-View-Web.png"   width="45%" alt="mobile-View-Web" border="0">
+</div>
+<div>
 <img src="https://i.ibb.co/xz12843/product-View-Web.png"  width="45%" alt="product-View-Web" border="0"><img src="https://i.ibb.co/7SQyDg5/selected-Cat-Web.png"  width="45%" alt="selected-Cat-Web" border="0">
-
+</div>
 
 <h3 align='center'>Mobile perspective</h3>
-<img src="https://i.ibb.co/zhr7QVy/menu-View-Mob.png"  width="45%" alt="menu-View-Mob" border="0"> <img src="https://i.ibb.co/1f8LQkf/performance-MOB.png"  width="45%" alt="performance-MOB" border="0">
-<img src="https://i.ibb.co/ZLFs47K/selected-Cat-Mob.png"  width="45%" alt="selected-Cat-Mob" border="0"> <img src="https://i.ibb.co/XD620ZS/mobile-View-Mob.png"  width="45%" alt="mobile-View-Mob" border="0">
+<div>
+<img src="https://i.ibb.co/zhr7QVy/menu-View-Mob.png"  width="45%" alt="menu-View-Mob" border="0"> <img src="https://i.ibb.co/ZLFs47K/selected-Cat-Mob.png"  width="45%" alt="selected-Cat-Mob" border="0"> 
+</div>  
+<img src="https://i.ibb.co/XD620ZS/mobile-View-Mob.png"  width="45%" alt="mobile-View-Mob" border="0">
 
 
