@@ -15,11 +15,11 @@ export default function Product({selectedProduct}) {
                             <p  className='first-section-h4'>Limited Edition and Custom Photo Donuts may contain artificial dyes.</p>
                             <p  className='first-section-h5'>Let us come to you!</p>
                             <Link className='primaryBtn' to='signup'>
-                                <img className='img-btn' src='https://www.dunkindonuts.com/content/dam/dd/img/menu-redesign/espresso-coffee/pdpespressocoffee/Dunkin_Delivers_Button_SVG.svg' alt='delivers buttonx'/>
+                                <img className='img-btn' src='https://www.dunkindonuts.com/content/dam/dd/img/menu-redesign/espresso-coffee/pdpespressocoffee/Dunkin_Delivers_Button_SVG.svg' alt='delivers buttonx'    loading='lazy'/>
                             </Link>
                     </Col>
                     <Col lg={5}>
-                        <img className='primary-btn' src={selectedProduct.img} style={{maxHeight:'100%',maxWidth:'100%'}} alt={selectedProduct.alt}/>
+                        <img className='primary-btn' src={selectedProduct.img} style={{maxHeight:'100%',maxWidth:'100%'}} loading='lazy' alt={selectedProduct.alt}/>
                     </Col>
                 </Row>
             </div>

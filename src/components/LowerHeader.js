@@ -20,7 +20,7 @@ function LowerHeader() {
                 </Nav.Link>
                 <Nav.Link className='justify-content-sm-start lower-head-logo'>
                     <Link to='/'>
-                        <img src="https://www.dunkindonuts.com/content/dam/dd/img/brand/dd/dd-logo.svg" style={{width:'210px', height:'25px'}} alt="DUNKIN'"/>
+                        <img loading='lazy' src="https://www.dunkindonuts.com/content/dam/dd/img/brand/dd/dd-logo.svg" style={{width:'210px', height:'25px'}} alt="DUNKIN'"/>
                     </Link>
                 </Nav.Link>
                 <Nav.Link>

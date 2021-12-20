@@ -18,6 +18,7 @@ export default function ProductView(props) {
                     <img 
                         alt={props.data.alt}
                         src={props.data.img}
+                        loading='lazy'
                         />
                     <Link className='primaryBtn' to='/product-details'>{props.data.name}</Link>
                 </Figure>

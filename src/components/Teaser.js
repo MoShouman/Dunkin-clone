@@ -19,14 +19,14 @@ function Teaser() {
                 <Container className='d-flex justify-content-center align-items-center text-center px-4 ' style={{minHeight:'40vh', marginTop:'40px'}}>
                   <Row className='justify-content-center' >
                        <Col lg={3}>
-                        <img src="https://www.dunkindonuts.com/content/dam/dd/img/rebranding/homepage/Path%20413.svg" alt="rebranding" className='my-2'/>
+                        <img loading='lazy'src="https://www.dunkindonuts.com/content/dam/dd/img/rebranding/homepage/Path%20413.svg" alt="rebranding" className='my-2'/>
                             <span style={{fontSize:'20px'}}><br/>Earn on Every Run</span>
                             <div style={{fontSize:'12px', marginTop:'4px'}}>
                                 $1 = 5 points. Every 200 points earns you a free beverage. Plus, get exclusive bonus-point offers.
                             </div>
                         </Col>
                         <Col lg={3}>
-                        <img src="https://www.dunkindonuts.com/content/dam/dd/img/rebranding/homepage/Dunkin_Cup_mob.svg" alt="" className='my-2'/>
+                        <img loading='lazy' src="https://www.dunkindonuts.com/content/dam/dd/img/rebranding/homepage/Dunkin_Cup_mob.svg" alt="" className='my-2'/>
                         <span style={{fontSize:'20px'}}><br/>Pay Any Way</span>
                         <div style={{fontSize:'12px', marginTop:'4px'}}>
                             Pay with a debit/credit card, cash or an enrolled Dunkin' Card to unlock rewards and offers.
@@ -34,7 +34,7 @@ function Teaser() {
 
                         </Col>
                         <Col lg={3}>
-                            <img src="https://www.dunkindonuts.com/content/dam/dd/img/rebranding/homepage/Dunkin_Runner_mob.svg" alt="" className='my-2'/>
+                            <img loading='lazy'src="https://www.dunkindonuts.com/content/dam/dd/img/rebranding/homepage/Dunkin_Runner_mob.svg" alt="" className='my-2'/>
                             <span style={{fontSize:'20px'}}><br/>Check Out Faster</span>
                             <div style={{fontSize:'12px', marginTop:'4px'}}>
                                 Whether you’re stopping in or ordering ahead, load funds to your account to save time on your run.

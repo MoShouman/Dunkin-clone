@@ -12,7 +12,7 @@ function FreshSection() {
             <Container fluid>
                 <Row>
                     <Col lg={4} className='p-0'>
-                        <img className='fresh-drink-img' src={fresh} alt='fresh drink img'/>
+                        <img loading='lazy' className='fresh-drink-img' src={fresh} alt='fresh drink img'/>
                     </Col>
                     <Col className='mt-4' lg={8}>
                         <h1 className='heading text-center'>
@@ -32,6 +32,7 @@ function FreshSection() {
                                     <p className='desc2 pink-color'>handcrafted expresso drinks</p>
                                 </Figure.Caption>
                                 <Figure.Image
+                                    loading='lazy'
                                     style={{width:'100%'}}
                                 alt="171x180"
                                 src={expresso}
@@ -47,6 +48,7 @@ function FreshSection() {
                                     <p className='desc2 pink-color'>all-day breakfast sandwiches</p>
                                 </Figure.Caption>
                                 <Figure.Image
+                                    loading='lazy'
                                     style={{width:'100%'}}
                                     alt="171x180"
                                     src={sandwiches}
@@ -62,6 +64,7 @@ function FreshSection() {
                                 <p className='desc2 pink-color'>hot coffe</p>
                             </Figure.Caption>
                             <Figure.Image
+                                loading='lazy'
                                 style={{width:'100%',height:'100%'}}
                                 alt="171x180"
                                 src={'https://www.dunkindonuts.com/content/dam/dd/img/menu-redesign/espresso-coffee/pdpespressocoffee/Coffee_570x570.png'}

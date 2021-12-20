@@ -10,7 +10,7 @@ function Header() {
         <Container>
             <Navbar.Brand className='d-sm-none'>
                 <Link to='/'>
-                    <img src="https://www.dunkindonuts.com/content/dam/dd/img/brand/dd/dd-logo.svg" style={{width:'40%'}} className="mobile-menu__logo--low" alt="DUNKIN'"/>
+                    <img loading='lazy' src="https://www.dunkindonuts.com/content/dam/dd/img/brand/dd/dd-logo.svg" style={{width:'40%'}} className="mobile-menu__logo--low" alt="DUNKIN'"/>
                 </Link>
             </Navbar.Brand>
             <Navbar.Toggle aria-controls="basic-navbar-nav" />

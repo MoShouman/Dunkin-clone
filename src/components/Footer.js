@@ -33,9 +33,9 @@ export default function Footer() {
             </Row>
             <div className='text-center parteners-holder'>
                 <p>OUR PARTNERS</p>
-                <img style={{width:'fit-content', height:'fit-content'}} src="https://www.dunkindonuts.com/content/dam/dd/img/brand/third-party/partners/jetblue.png" alt="Visit our partner NHL" className=''ss="responsive-image__img"/>
-                <img style={{width:'fit-content', height:'fit-content'}} src="https://www.dunkindonuts.com/content/dam/dd/img/brand/third-party/partners/baskinrobbins.png" alt="Visit our partner Baskin Robbins" className=''ss="responsive-image__img"/>
-                <img style={{width:'fit-content', height:'fit-content'}} src="https://www.dunkindonuts.com/content/dam/dd/img/brand/third-party/partners/NHL_Shield_English_Primary1.png" alt="Visit our partner NHL" className=''s="responsive-image__img"/>
+                <img loading='lazy' style={{width:'fit-content', height:'fit-content'}} src="https://www.dunkindonuts.com/content/dam/dd/img/brand/third-party/partners/jetblue.png" alt="Visit our partner NHL" className=''ss="responsive-image__img"/>
+                <img loading='lazy' style={{width:'fit-content', height:'fit-content'}} src="https://www.dunkindonuts.com/content/dam/dd/img/brand/third-party/partners/baskinrobbins.png" alt="Visit our partner Baskin Robbins" className=''ss="responsive-image__img"/>
+                <img loading='lazy' style={{width:'fit-content', height:'fit-content'}} src="https://www.dunkindonuts.com/content/dam/dd/img/brand/third-party/partners/NHL_Shield_English_Primary1.png" alt="Visit our partner NHL" className=''s="responsive-image__img"/>
             </div>
 
             <div className='text-center last-part-holder py-4'>

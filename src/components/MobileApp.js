@@ -21,13 +21,13 @@ export default function MobileApp() {
                             </ul>
                             <Container className='d-flex justify-content-center align-items-center px-4 '>
                                 <div className='d-flex justify-content-between app-links'>
-                                    <img src="https://www.dunkindonuts.com/content/dam/dd/img/rebranding/homepage/apple.svg" alt="apple" className='my-2'/>
-                                    <img src="https://www.dunkindonuts.com/content/dam/dd/img/rebranding/homepage/google%20play.svg" alt="googleplay" className='my-2'/>
+                                    <img loading='lazy' src="https://www.dunkindonuts.com/content/dam/dd/img/rebranding/homepage/apple.svg" alt="apple" className='my-2'/>
+                                    <img loading='lazy' src="https://www.dunkindonuts.com/content/dam/dd/img/rebranding/homepage/google%20play.svg" alt="googleplay" className='my-2'/>
                                 </div>
                             </Container>
                         </Col>
                         <Col lg={6}>
-                        <img src="https://www.dunkindonuts.com/content/dam/dd/img/newIPhone/IPhoneNoProgram/Dunkin-Done-Easy.png" alt="IPhoneNoProgram" className='my-2'/>
+                        <img loading='lazy' src="https://www.dunkindonuts.com/content/dam/dd/img/newIPhone/IPhoneNoProgram/Dunkin-Done-Easy.png" alt="IPhoneNoProgram" className='my-2'/>
                         </Col>
                     </Row>
             </Container>
