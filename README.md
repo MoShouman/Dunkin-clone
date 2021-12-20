@@ -1,44 +1,44 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
+<img  src="https://i.ibb.co/BTMsX2B/banner.png" alt="dunkin banner" border="0" width="100%">
 
-## Available Scripts
+<h1 align='center'>Dunkin' Clone</h1>
 
-In the project directory, you can run:
+Clone of Dunkin' website.
 
-### `yarn start`
+![GitHub last commit](https://img.shields.io/github/last-commit/MoShouman/Dunkin-clone)
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+## Built with
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+reactJS, bootstrap, hooks, and firebase.
 
-### `yarn test`
+## Live website
 
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+<a href="https://dunkinclone.netlify.app/">c-store</a>
 
-### `yarn build`
 
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## How I reached 99% performance on Desktop and 97% on Mobile
 
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
+<img src="https://i.ibb.co/1f8LQkf/performance-MOB.png" alt="performance-MOB" border="0" width="100%">
+<img src="https://i.ibb.co/gjNmkhP/performance-WEB.png" alt="performance-WEB" border="0" width="100%">
+<p>1. By using Image compressor: https://imagecompressor.com/</p>
+<p>2. Splitting code with react.lazy()</p>
+<p>3. Compressing js, css files </p>
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `yarn eject`
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+## How it looks
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+<h3 align='center'>Web perspective</h3>
 
-Instead, it will copy all the configuration files and the transitive dependencies (Webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+<img src="https://i.ibb.co/H74PbS4/login.png" alt="login" width="45%">  <img  src="https://i.ibb.co/qNstgMh/resgister.png" alt="resgister" width="45%"> 
+<img src="https://i.ibb.co/X71DNvB/shop.png" alt="shop" width="45%">  <img src="https://i.ibb.co/m0sktFx/cart.png" alt="cart" width="45%"> 
+<img src="https://i.ibb.co/202r9bD/PopUp.png" alt="PopUp" width="45%">  <img src="https://i.ibb.co/0rynF7X/product.png" alt="product" width="45%"> 
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+<img src="https://i.ibb.co/dBLFWjf/menu-View-Web.png"  width="45%" alt="menu-View-Web" border="0"><img src="https://i.ibb.co/w4RQbJh/mobile-View-Web.png"   width="45%" alt="mobile-View-Web" border="0">
+<img src="https://i.ibb.co/xz12843/product-View-Web.png"  width="45%" alt="product-View-Web" border="0"><img src="https://i.ibb.co/7SQyDg5/selected-Cat-Web.png"  width="45%" alt="selected-Cat-Web" border="0">
 
-## Learn More
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+<h3 align='center'>Mobile perspective</h3>
+<img src="https://i.ibb.co/zhr7QVy/menu-View-Mob.png"  width="45%" alt="menu-View-Mob" border="0"> <img src="https://i.ibb.co/1f8LQkf/performance-MOB.png"  width="45%" alt="performance-MOB" border="0">
+<img src="https://i.ibb.co/ZLFs47K/selected-Cat-Mob.png"  width="45%" alt="selected-Cat-Mob" border="0"> <img src="https://i.ibb.co/XD620ZS/mobile-View-Mob.png"  width="45%" alt="mobile-View-Mob" border="0">
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+
