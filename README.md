@@ -38,6 +38,7 @@ reactJS, bootstrap, hooks, and firebase.
 <div>
 <img src="https://i.ibb.co/zhr7QVy/menu-View-Mob.png"  width="45%" alt="menu-View-Mob" border="0"> <img src="https://i.ibb.co/ZLFs47K/selected-Cat-Mob.png"  width="45%" alt="selected-Cat-Mob" border="0"> 
 </div>  
-<img src="https://i.ibb.co/XD620ZS/mobile-View-Mob.png"  width="45%" alt="mobile-View-Mob" border="0">
-
+<div>
+<img src="https://i.ibb.co/XD620ZS/mobile-View-Mob.png"  width="45%" alt="mobile-View-Mob" border="0"><img src="https://i.ibb.co/QkY523G/product-View-Mob.png"  width="45%" alt="product-View-Mob" border="0">
+</div>
 
