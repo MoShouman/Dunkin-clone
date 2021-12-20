@@ -15,7 +15,7 @@ reactJS, bootstrap, hooks, and firebase.
 <a href="https://dunkinclone.netlify.app/">Dunkin' clone</a>
 
 
-## How I reached 99% performance on Desktop and 97% on Mobile
+## How I reached 99% performance on Desktop and 95% on Mobile
 
 <img src="https://i.ibb.co/1f8LQkf/performance-MOB.png" alt="performance-MOB" border="0" width="45%"><img src="https://i.ibb.co/gjNmkhP/performance-WEB.png" alt="performance-WEB" border="0" width="45%">
 <p>1. By using Image compressor: https://imagecompressor.com/</p>
