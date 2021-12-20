@@ -6,7 +6,7 @@ Clone of Dunkin' website.
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/MoShouman/Dunkin-clone)
 
-## Built with
+## Built with:
 
 reactJS, bootstrap, hooks, and firebase.
 
