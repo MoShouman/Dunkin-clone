@@ -1,0 +1,76 @@
+.hero-section{
+    border-bottom: 0.1px solid rgb(247 237 237);
+}
+
+.hero-section .heading p{
+    font-size: 15px;
+    max-width: 600px;
+    margin: auto;
+    margin-top: 50px;
+}
+
+.hero-section .first-heading{
+    font-size: 68px;
+    text-transform: uppercase;
+    word-spacing: -30px;
+    margin-bottom: 15px;
+    line-height: 100px;
+}
+
+.hero-section .heading .last-heading{
+    font-size: 23px;
+    max-width: 405px;
+    margin-bottom: 20px;
+}
+
+
+
+@media (max-width: 767.98px) { 
+    .hero-section .primaryBtn{
+        padding: 12px 30px !important;
+    }
+}
+
+.hero-section .figure img{
+    overflow: hidden;
+}
+
+.hero-section .figure img:hover{
+    overflow: hidden;
+    transform: scale(1.2);
+    transition: all .3s ease-in-out;
+}
+
+.hero-section .primaryBtn{
+    background-color: #db0a81;
+    border: 2px solid #db0a81;
+    border-radius:  50px  ;
+    box-sizing:  border-box  ;
+    color:  #fff  ;
+    display:  inline-block  ;
+    font-size: 14px;
+    font-weight: 800;
+    line-height: 1;
+    padding: 16px 36px;
+    margin: 20px 14px;
+    text-align:  center  ;
+    text-transform:  uppercase  ;
+    width:  auto;
+    cursor:  pointer;
+    transition:  all 250ms ease-in-out;
+    text-decoration: none; 
+}
+
+.hero-section .primaryBtn:hover{
+   
+    background-color: #a0095f;
+    border: 2px solid #a0095f;
+}
+
+.hero-section .hero-bg-img{
+    background-image: url('.././imgs/hero.png');
+    min-height: 430px;
+    background-size: cover;
+    height: inherit;
+    min-width: 100%;
+}

@@ -1,0 +1,73 @@
+.fresh-section{
+    min-height: 90vh;
+    border-bottom: 0.1px solid rgb(247 237 237);
+    margin-top: 40px;
+}
+
+.fresh-section .heading{
+    text-transform: uppercase;
+    font-size: 60px;
+    line-height: 52px;
+}
+
+.fresh-section .heading:nth-child(2){
+   max-width: 300px;
+}
+
+
+@media (max-width: 767.98px) { 
+    .fresh-section .primaryBtn{
+        padding: 12px 30px !important;
+    }
+    .fresh-section .fresh-drink-img{
+        display: none;
+    }
+}
+
+
+.fresh-section .primaryBtn{
+    background-color: #db0a81;
+    border: 2px solid #db0a81;
+    border-radius:  50px  ;
+    box-sizing:  border-box  ;
+    color:  #fff  ;
+    display:  inline-block  ;
+    font-size: 14px;
+    font-weight: 800;
+    line-height: 1;
+    padding: 16px 57px;
+    margin: 20px 14px;
+    text-align:  center  ;
+    text-transform:  uppercase  ;
+    width:  auto;
+    cursor:  pointer;
+    transition:  all 250ms ease-in-out;
+    text-decoration: none; 
+}
+
+.fresh-section .primaryBtn:hover{
+   
+    background-color: #a0095f;
+    border: 2px solid #a0095f;
+}
+
+.desc1{
+    color:black;
+    font-family: 'Dunkin' !important;
+    text-transform: uppercase;
+    line-height: 13px;
+}
+
+.desc2{
+    font-family: 'Dunkin' !important;
+    text-transform: uppercase;
+    line-height: 22px;
+    font-family: 800;
+    font-size: 22px;
+    cursor: pointer;
+}
+
+
+.desc2:hover{
+    color: #a0095f;
+}

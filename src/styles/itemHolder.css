@@ -1,0 +1,62 @@
+@media (min-width: 767.98px) { 
+    .menu-container{
+        padding: 1rem 9rem;
+    }
+}
+
+.category .figure{
+    border: 1px solid rgb(221, 217, 217);
+    border-radius: 25px;
+    overflow: hidden;
+    padding: 23px 0px;
+}
+
+.category .figure img{
+    min-height: 220px !important;
+    max-height: 220px !important;
+    min-width: 247px !important;
+    max-width: 247px !important;
+    object-fit: contain;
+}
+
+.category .figure:hover{
+    background-color: rgb(252, 236, 243);
+    transition:  all 250ms ease-in-out;
+
+}
+
+.category .primaryBtn{
+    background-color: #db0a81;
+    border: 2px solid #db0a81;
+    border-radius:  50px  ;
+    box-sizing:  border-box  ;
+    color:  #fff  ;
+    display:  inline-block  ;
+    font-size: 16px;
+    font-weight: 800;
+    line-height: 1;
+    padding: 12px 47px;
+    margin: 20px 14px;
+    text-align:  center  ;
+    text-transform:  uppercase  ;
+    width:  auto;
+    cursor:  pointer;
+    transition:  all 250ms ease-in-out;
+    text-decoration: none; 
+}
+
+.category .primaryBtn:hover{
+   
+    background-color: #a0095f;
+    border: 2px solid #a0095f;
+}
+
+@media (max-width: 767.98px) { 
+    .category .primaryBtn{
+        padding: 12px 30px !important;
+    }
+    .category .figure img{
+        min-width: 250px;
+    }
+
+}
