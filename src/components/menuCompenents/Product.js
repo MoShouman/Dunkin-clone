@@ -10,9 +10,9 @@ export default function Product({selectedProduct}) {
                 <Row className='justify-content-center align-items-center'>
                     <Col lg={7} className='right-part justify-content-center'>
                             <h1 className='first-section-h1'>{selectedProduct.name}</h1>
-                            <p  className='first-section-h2'>MAKING PEOPLE SMILE SINCE 1950</p>
-                            <p  className='first-section-h3'>Our delicious donuts come in a variety of flavors and are free of artificial dyes, so there’s a favorite for everyone.</p>
-                            <p  className='first-section-h4'>Limited Edition and Custom Photo Donuts may contain artificial dyes.</p>
+                            <p  className='first-section-h2 px-sm-4'>MAKING PEOPLE SMILE SINCE 1950</p>
+                            <p  className='first-section-h3 px-sm-4'>Our delicious donuts come in a variety of flavors and are free of artificial dyes, so there’s a favorite for everyone.</p>
+                            <p  className='first-section-h4 px-sm-4'>Limited Edition and Custom Photo Donuts may contain artificial dyes.</p>
                             <p  className='first-section-h5'>Let us come to you!</p>
                             <Link className='primaryBtn' to='signup'>
                                 <img className='img-btn' src='https://www.dunkindonuts.com/content/dam/dd/img/menu-redesign/espresso-coffee/pdpespressocoffee/Dunkin_Delivers_Button_SVG.svg' alt='delivers buttonx'    loading='lazy'/>
@@ -61,10 +61,10 @@ export default function Product({selectedProduct}) {
                             </div>
                         </div>
                         <div>
-                            <p>
+                            <p className='px-sm-4'>
                                 May contain traces of Tree Nuts (Walnuts)
                             </p>
-                            <p>
+                            <p className='px-sm-4'>
                                 Please be advised that any of our products may contain, or may have come in contact with, allergens including Eggs,
                                 Fish, Milk, Peanuts, Shellfish, Soy, Tree nuts, and Wheat. Before placing your order, please inform your server if a person in
                                  your party has a food allergy.

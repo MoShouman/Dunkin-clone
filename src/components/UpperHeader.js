@@ -12,14 +12,14 @@ function UpperHeader() {
                         <Link className='primaryBtn' to='signup'>sign up</Link>
                         <Link className='secondaryBtn' to='signin'>sign in</Link>
                     </Col>
-                    <Col sm={12}>
-                        <div className="small-screens-header d-sm-none">
+                    {/* <Col sm={12}>
+                        <div className="small-screens-header ">
                                 <div>Not a DD Perks member?</div>
                                 <Link to="/en/dd-perks" data-track="LEARN MORE">
                                     LEARN MORE
                                 </Link>
                         </div>
-                    </Col>
+                    </Col> */}
                 </Row>
             </Container>
     )
