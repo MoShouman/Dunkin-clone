@@ -36,9 +36,9 @@ reactJS, bootstrap, hooks, and firebase.
 
 <h3 align='center'>Mobile perspective</h3>
 <div>
-<img src="https://i.ibb.co/zhr7QVy/menu-View-Mob.png"  width="45%" alt="menu-View-Mob" border="0"><img src="https://i.ibb.co/XD620ZS/mobile-View-Mob.png"  width="45%"  style="min-height:532px" alt="mobile-View-Mob" border="0">
+<img src="https://i.ibb.co/zhr7QVy/menu-View-Mob.png"  width="45%" style="min-height:532px;max-height:532px" alt="menu-View-Mob" border="0"><img src="https://i.ibb.co/XD620ZS/mobile-View-Mob.png"  width="45%"  style="min-height:532px;max-height:532px" alt="mobile-View-Mob" border="0">
 </div>  
 <div>
-<img src="https://i.ibb.co/QkY523G/product-View-Mob.png" style="min-height:532px"  width="45%" alt="product-View-Mob" border="0">  <img src="https://i.ibb.co/ZLFs47K/selected-Cat-Mob.png" style="min-height:532px"  width="45%" alt="selected-Cat-Mob" border="0"> 
+<img src="https://i.ibb.co/QkY523G/product-View-Mob.png" style="min-height:532px; max-height:532px"  width="45%" alt="product-View-Mob" border="0">  <img src="https://i.ibb.co/ZLFs47K/selected-Cat-Mob.png" style="min-height:532px; max-height:532px"  width="45%" alt="selected-Cat-Mob" border="0"> 
 </div>
 
